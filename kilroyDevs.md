@@ -9,3 +9,6 @@ Finally send us a pull request and we'll merge it.
 - Marcus Hammarberg
   > He never did find the definition of recursion...
 - Danilo Mirkovic
+  > No quote
+- Markus Gustafsson
+  > Neither did I...
