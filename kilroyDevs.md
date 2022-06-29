@@ -8,6 +8,7 @@ Finally send us a pull request and we'll merge it.
 
 - Marcus Hammarberg
   > He never did find the definition of recursion...
+- Andrea Agosta
 - Filip Nyström
   > Till händelser i livet knyter sig inget som helst språk...
 - Priscilla Reboucas  
