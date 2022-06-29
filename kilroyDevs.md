@@ -8,6 +8,8 @@ Finally send us a pull request and we'll merge it.
 
 - Marcus Hammarberg
   > He never did find the definition of recursion...
+- Niklas Hellström
+  > For a moment, nothing happened. Then, after a second or so, nothing continued to happen.
 - Nuno Craveiro
   > * Insert nice quote *
 - Qingqing Dai
