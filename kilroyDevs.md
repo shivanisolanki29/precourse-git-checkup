@@ -10,3 +10,14 @@ Finally send us a pull request and we'll merge it.
   > He never did find the definition of recursion...
 - Qingqing Dai
   > bubble tea
+- Andrea Agosta
+- Filip Nyström
+  > Till händelser i livet knyter sig inget som helst språk...
+- Priscilla Reboucas  
+  > Having fun with Git!
+- Lucie Marie
+  > Don't mind me, just chillin'...
+- Danilo Mirkovic
+  > No quote
+- Markus Gustafsson
+  > Neither did I...
