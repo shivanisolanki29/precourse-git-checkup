@@ -8,6 +8,8 @@ Finally send us a pull request and we'll merge it.
 
 - Marcus Hammarberg
   > He never did find the definition of recursion...
+- Nuno Craveiro
+  > * Insert nice quote *
 - Qingqing Dai
   > bubble tea
 - Andrea Agosta
