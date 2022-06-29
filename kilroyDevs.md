@@ -8,6 +8,8 @@ Finally send us a pull request and we'll merge it.
 
 - Marcus Hammarberg
   > He never did find the definition of recursion...
+- Lucie Marie
+  > Don't mind me, just chillin'...
 - Danilo Mirkovic
   > No quote
 - Markus Gustafsson
